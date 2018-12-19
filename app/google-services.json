@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "314376733204",
+    "firebase_url": "https://todozilla-1545084433427.firebaseio.com",
+    "project_id": "todozilla-1545084433427",
+    "storage_bucket": "todozilla-1545084433427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314376733204:android:64e412f0a0d812c8",
+        "android_client_info": {
+          "package_name": "com.example.abzal.todozilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314376733204-2f035729h8udsvo42menjd67v92lg6kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT13ez7COhd7w2Ulj8ac1yR0XNBBubMsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
