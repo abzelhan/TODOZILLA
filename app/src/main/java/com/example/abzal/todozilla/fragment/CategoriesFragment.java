@@ -166,8 +166,6 @@ public class CategoriesFragment extends Fragment {
                         categoryAdapter.setItems(categories);
                     }
                 }
-                Log.d(CategoriesFragment.class.getName(), "Amount of categories: " + response.length());
-                Toast.makeText(getActivity(), "Success Code:" + statusCode, Toast.LENGTH_SHORT).show();
             }
 
             @Override
